@@ -24,7 +24,7 @@ När du är klar ska du ha:
 
 ---
 
-## 🧱 Del 1 – Strapi (ca 60 min)
+## Del 1 – Strapi
 
 ### 1. Skapa content types
 
@@ -58,7 +58,7 @@ Kryssa i:
 
 ---
 
-## 🧩 Del 2 – TanStack Start (ca 30 min)
+## Del 2 – TanStack Start
 
 ### 1. Skapa nytt projekt
 
@@ -69,11 +69,9 @@ npm i
 npm run dev
 ```
 
----
+### Routes & sidor
 
-## 🚀 Del 3 – Routes & sidor
-
-### `/articles` (lista alla artiklar)
+#### `/articles` (lista alla artiklar)
 
 Skapa fil: `routes/articles.tsx`
 
@@ -87,9 +85,8 @@ Skapa fil: `routes/articles.tsx`
 - Visa lista med alla artiklar
   - Titel → länka till `/articles/$slug`
   - Visa kategori (om finns)
-- ***
 
-### `/articles/$slug` (enskild artikel)
+#### `/articles/$slug` (enskild artikel)
 
 Skapa fil: `routes/articles_.$slug.tsx`
 
@@ -103,16 +100,14 @@ Skapa fil: `routes/articles_.$slug.tsx`
 - Visa artikelns titel och kategori
 - Använd `BlockRenderer` och prose för innehållet
 
----
-
-## 🧱 Del 4 – BlockRenderer
+#### BlockRenderer
 
 Installera strapi block renderer och prose för att kunna visa Rich text
 i artikeln.
 
 ---
 
-## 🧭 VG - Extra uppgifter
+## VG - Extra uppgifter
 
 - `/categories` – lista alla kategorier
 - Skapa kategori-sidor och Filtrera artiklar per kategori
@@ -120,4 +115,4 @@ i artikeln.
 
 ---
 
-🚀 **Mål:** Du har byggt en “Knowledge Hub” där TanStack Start och Strapi samverkar som fullstack-lösning!
+**Mål:** Du har byggt en “Knowledge Hub” där TanStack Start och Strapi samverkar som fullstack-lösning!
