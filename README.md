@@ -115,7 +115,7 @@ i artikeln.
 ## 🧭 VG - Extra uppgifter
 
 - `/categories` – lista alla kategorier
-- Skapa kategori-sidor och Filtrera artiklar per kategori:
+- Skapa kategori-sidor och Filtrera artiklar per kategori
 - Skapa en första-sida som använder Blocks
 
 ---
