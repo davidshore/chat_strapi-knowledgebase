@@ -1,4 +1,4 @@
-# **Knowledge Hub** med Strapi 5 + TanStack Start
+# **Knowledge Base** med Strapi 5 + TanStack Start
 
 Bygg en enkel innehållssajt där **Strapi** fungerar som CMS och **TanStack Start** visar innehållet.
 
