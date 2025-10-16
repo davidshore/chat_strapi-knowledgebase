@@ -116,7 +116,7 @@ i artikeln.
 
 - `/categories` – lista alla kategorier
 - Skapa kategori-sidor och Filtrera artiklar per kategori:
-- Lägg till sök och filtrera på titlar:
+- Skapa en första-sida som använder Blocks
 
 ---
 
